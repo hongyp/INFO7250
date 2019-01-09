@@ -1,8 +1,8 @@
 # INFO7250
 ## Member:
-Jianan Wen
-Wenbo Sun
-Kaiying Zhang
+Jianan Wen, 
+Wenbo Sun, 
+Kaiying Zhang, 
 Yipeng Hong
 
 ## Project name:
